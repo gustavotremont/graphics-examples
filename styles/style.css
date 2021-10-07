@@ -1,0 +1,12 @@
+.ct-series-a .ct-bar {
+    /* Colour of your bars */
+    stroke: red;
+    /* The width of your bars */
+    stroke-width: 20px;
+  }
+
+  #box {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+  }
